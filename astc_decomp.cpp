@@ -32,7 +32,7 @@
  * \file
  * \brief ASTC Utilities.
  *//*--------------------------------------------------------------------*/
-#include "basisu_astc_decomp.h"
+#include "astc_decomp.h"
 #include <assert.h>
 #include <algorithm>
 
