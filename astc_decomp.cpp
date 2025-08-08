@@ -35,7 +35,6 @@
 #include "astc_decomp.h"
 #include <assert.h>
 #include <algorithm>
-#include <stdint.h>
 
 #define DE_LENGTH_OF_ARRAY(x) (sizeof(x)/sizeof(x[0]))
 #define DE_UNREF(x) (void)x
